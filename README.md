@@ -84,3 +84,5 @@ $ ./peel.sh exp:run yarn-suite simple-yarn-app
 # References
 See the [Peel Manual](http://peel-framework.org/manual) for more information how to build and run the experiments
 bundled in this package.
+
+The `HelloREEF` code is taken from the [Apache REEF examples package](https://github.com/apache/reef/tree/master/lang/java/reef-examples/src/main/java/org/apache/reef/examples/hello).
